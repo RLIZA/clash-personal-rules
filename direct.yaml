@@ -1,0 +1,5 @@
+# Rules that always use DIRECT, matching the existing personal overrides.
+payload:
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,feishu.cn
