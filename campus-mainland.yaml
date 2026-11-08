@@ -1,0 +1,6 @@
+# Rules using the 国内/校园 policy group. Update this file to sync all computers.
+payload:
+  - DOMAIN-SUFFIX,mangacopy.com
+  - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN-SUFFIX,cityu.edu.hk
+  - DOMAIN-SUFFIX,163.com
